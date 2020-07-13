@@ -1,3 +1,3 @@
 # vim-diff
 
-[Original](gist.github.com/PeterRincker/69b536f303f648cc21ec2ff2282f8c4a)
+[Original](https://gist.github.com/romainl/7198a63faffdadd741e4ae81ae6dd9e6)
